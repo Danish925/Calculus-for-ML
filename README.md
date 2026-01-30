@@ -14,7 +14,7 @@ All explanations are **intuition-first** and supported by **NumPy-based experime
 ---
 
 ## 📂 Repository Structure
-
+```
 calculus-for-ml/
 │
 ├── notebooks/
@@ -28,6 +28,7 @@ calculus-for-ml/
 └── LICENSE
 
 ---
+```
 
 ## 🎯 Learning Objectives
 
